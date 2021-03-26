@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ashutoshkokam
 - 👀 I’m interested in _converting ideas into code_
-- 🌱 I’m currently learning _DSA & Cpmpetetive Programming_
+- 🌱 I’m currently learning _DSA & Competetive Programming_
 - 💞️ I’m looking to collaborate _on few github projects_
 - 📫 How to reach me _ashutoshkokam@outlook.com_
 
