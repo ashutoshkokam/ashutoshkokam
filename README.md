@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ashutoshkokam
-- 👀 I’m interested in converting ideas into code
-- 🌱 I’m currently learning DSA & Cpmpetetive Programming
-- 💞️ I’m looking to collaborate on few github projects
-- 📫 How to reach me ashutoshkokam@outlook.com
+- 👀 I’m interested in _converting ideas into code_
+- 🌱 I’m currently learning _DSA & Cpmpetetive Programming_
+- 💞️ I’m looking to collaborate _on few github projects_
+- 📫 How to reach me _ashutoshkokam@outlook.com_
 
 <!---
 ashutoshkokam/ashutoshkokam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
